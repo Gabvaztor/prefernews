@@ -1,0 +1,1 @@
+App que proporciona al usuario una gran abanico de noticias.
